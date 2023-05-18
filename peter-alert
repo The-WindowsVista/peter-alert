@@ -1,0 +1,2 @@
+#! /bin/sh
+./yad --picture --filename='./peter.png' --width=190 --button=OK --title="Peter Alert" --window-icon="" --center
